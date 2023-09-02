@@ -1,0 +1,25 @@
+body{
+
+margin: 5px;
+padding: 5px;
+background-color:rgb(158, 224, 255);
+
+}
+@font-face {
+    font-family: Disney;
+    src: url(/assets/fonts/waltographUI.ttf) format('truetype')
+}
+.hell{
+
+    font-family: Disney;
+    color: black;
+    font-size: 70px;
+}
+
+.p{
+
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 25px;
+
+}
